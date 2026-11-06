@@ -1,0 +1,122 @@
+[
+  {
+    "file": "August_2024_Know_Your_Audience.pdf",
+    "doi": "10.1145/3613904.3642289",
+    "source_url": "https://talaugust.github.io/assets/pdf/August2024Complexity.pdf",
+    "version": "author manuscript",
+    "retrieved_at": "2026-11-06T22:47:41.309851+09:00",
+    "status": "downloaded",
+    "bytes": 3059670,
+    "sha256": "c122844a24caee780c2e18acbe434d26db8d02df7d36c09692ca68bd5397a582"
+  },
+  {
+    "file": "Zhi_2019_Linking_and_Layout.pdf",
+    "doi": "10.1111/cgf.13719",
+    "source_url": "https://visualdata.wustl.edu/files/linking.pdf",
+    "version": "author-hosted PDF",
+    "retrieved_at": "2026-11-06T22:50:35.247354+09:00",
+    "status": "failed",
+    "error": "curl: (28) Operation timed out after 90004 milliseconds with 2457342 out of 31369266 bytes received",
+    "previous_attempt": {
+      "source_url": "https://visualdata.wustl.edu/files/linking.pdf",
+      "error": "curl: (60) SSL certificate problem: self signed certificate in certificate chain\nMore details here: https://curl.haxx.se/docs/sslcerts.html\n\ncurl performs SSL certificate verification by default, using a \"bundle\"\n of Certificate Authority (CA) public keys (CA certs). If the default\n bundle file isn'"
+    }
+  },
+  {
+    "file": "Shao_2024_Data_Storytelling_arxiv_v2.pdf",
+    "doi": "10.1145/3613904.3643022",
+    "source_url": "https://arxiv.org/pdf/2402.12634v2",
+    "version": "arXiv v2",
+    "retrieved_at": "2026-11-06T22:47:41.313737+09:00",
+    "status": "downloaded",
+    "bytes": 3267452,
+    "sha256": "c18b31b9cb16f5c46235ffe73ff6b444cff643167f0e59d69d421a971e170ec8"
+  },
+  {
+    "file": "Chandler_Sweller_1992_Split_Attention.pdf",
+    "doi": "10.1111/j.2044-8279.1992.tb01017.x",
+    "source_url": "https://www.davidlewisphd.com/courses/EDD8121/readings/1992-ChandlerSweller-SplitAttention.pdf",
+    "version": "published article scan on teaching site",
+    "retrieved_at": "2026-11-06T22:47:41.316987+09:00",
+    "status": "downloaded",
+    "bytes": 2535647,
+    "sha256": "ecb12f45e7d221c6caf9c1b3628104c5db45664613cca52ef5992ddcc852a413"
+  },
+  {
+    "file": "VanDerBles_2020_Communicating_Uncertainty.pdf",
+    "doi": "10.1073/pnas.1913678117",
+    "source_url": "https://www.pnas.org/content/pnas/117/14/7672.full.pdf",
+    "version": "publisher PDF",
+    "retrieved_at": "2026-11-06T22:49:05.414557+09:00",
+    "status": "failed",
+    "error": "curl: (56) The requested URL returned error: 403",
+    "previous_attempt": {
+      "source_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.1913678117",
+      "error": "curl: (22) The requested URL returned error: 403 Forbidden"
+    }
+  },
+  {
+    "file": "Bucinca_2021_To_Trust_or_To_Think.pdf",
+    "doi": "10.1145/3449287",
+    "source_url": "https://www.eecs.harvard.edu/~kgajos/papers/2021/bucinca21trust.pdf",
+    "version": "author-hosted PDF",
+    "retrieved_at": "2026-11-06T22:47:42.108290+09:00",
+    "status": "downloaded",
+    "bytes": 1809718,
+    "sha256": "79024bae4bcacff95b361885cf6b00eab8443ed88e87dc72ed255240f1f97d16"
+  },
+  {
+    "file": "Vasconcelos_2023_Explanations_Overreliance.pdf",
+    "doi": "10.1145/3579605",
+    "source_url": "https://hci.stanford.edu/publications/2023/xai-cscw-2023.pdf",
+    "version": "author manuscript with placeholder DOI",
+    "retrieved_at": "2026-11-06T22:50:06.987110+09:00",
+    "status": "downloaded",
+    "previous_attempt": {
+      "source_url": "https://hci.stanford.edu/publications/2023/xai-cscw-2023.pdf",
+      "error": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.haxx.se/docs/sslcerts.html\n\ncurl performs SSL certificate verification by default, using a \"bundle\"\n of Certificate Authority (CA) public keys (CA certs). If the default\n bundle file isn't adeq"
+    },
+    "bytes": 2234028,
+    "sha256": "ed2c698282ed76244d8fc4c0b95c7367c20bd23bb6ac3dd025271858d7aed0f9"
+  },
+  {
+    "file": "Kim_2025_Appropriate_Reliance_arxiv_v1.pdf",
+    "doi": "10.1145/3706598.3714020",
+    "source_url": "https://arxiv.org/pdf/2502.08554v1",
+    "version": "arXiv v1",
+    "retrieved_at": "2026-11-06T22:47:43.193042+09:00",
+    "status": "downloaded",
+    "bytes": 3611004,
+    "sha256": "dd64b468d9b885d3852fe2e96b37b73f55237c984dc56d1cce26906abaefa785"
+  },
+  {
+    "file": "Kim_2024_Uncertainty_Expression.pdf",
+    "doi": "10.1145/3630106.3658941",
+    "source_url": "https://www.jennwv.com/papers/uncertaintyllms.pdf",
+    "version": "author-hosted conference PDF",
+    "retrieved_at": "2026-11-06T22:47:59.576242+09:00",
+    "status": "downloaded",
+    "bytes": 2235262,
+    "sha256": "36cf33070e491a73d0fa29e1ad08d8d12c0a0fbc38b009962289f3114fa209fb"
+  },
+  {
+    "file": "Ding_2025_Citations_and_Trust.pdf",
+    "doi": "10.1609/aaai.v39i22.34550",
+    "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34550/36705",
+    "version": "publisher PDF",
+    "retrieved_at": "2026-11-06T22:48:01.207132+09:00",
+    "status": "downloaded",
+    "bytes": 880559,
+    "sha256": "01b56a46cc10aa3562a5c5ede50cfe739d38eb0d89adb1db4f810d39de0ba401"
+  },
+  {
+    "file": "Klepsch_2017_Cognitive_Load_Instruments.pdf",
+    "doi": "10.3389/fpsyg.2017.01997",
+    "source_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01997/pdf",
+    "version": "publisher PDF",
+    "retrieved_at": "2026-11-06T22:48:02.179910+09:00",
+    "status": "downloaded",
+    "bytes": 1169543,
+    "sha256": "e433fb9b56138115aafe234ea35b4fac6841f543ab74c85a99cb255ec9f621e3"
+  }
+]

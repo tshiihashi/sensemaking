@@ -1,0 +1,101 @@
+[
+  {
+    "file": "Ehlers_2025_Biological_Network_Visualization.pdf",
+    "doi": "10.1016/j.cag.2024.104115",
+    "source_url": "https://yun-vis.net/assets/projects/bionet/cg2025.pdf",
+    "retrieved_at": "2026-11-06T22:35:54+0900",
+    "status": "downloaded",
+    "bytes": 6659816,
+    "sha256": "8e3f6567a952e101fffc45d05e39f437ef4cd1297aec9c22607aeb633c26277a",
+    "pages": 31,
+    "title": "An introduction to and survey of biological network visualization",
+    "version": "published article, volume year 2025; online 2024-11-23"
+  },
+  {
+    "file": "ODonoghue_2018_Visualization_of_Biomedical_Data.pdf",
+    "doi": "10.1146/annurev-biodatasci-080917-013424",
+    "source_url": "https://opus.lib.uts.edu.au/bitstream/10453/125943/4/annurev-biodatasci-080917-013424%20%281%29.pdf",
+    "retrieved_at": "2026-11-06T22:36:36+0900",
+    "status": "downloaded",
+    "bytes": 14325049,
+    "sha256": "7a1f6a9ef3ef41b5e5506a39abb3a8e27927f4d787de6b6ed79f07859f783007",
+    "pages": 30,
+    "title": "Visualization of Biomedical Data",
+    "version": "university-hosted Review in Advance PDF, 2018"
+  },
+  {
+    "file": "Weiskopf_2022_Uncertainty_Visualization.pdf",
+    "doi": "10.3389/fbinf.2022.793819",
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fbinf.2022.793819/pdf",
+    "retrieved_at": "2026-11-06T22:35:56+0900",
+    "status": "downloaded",
+    "bytes": 3150497,
+    "sha256": "4eafe9506c691b3531ef180d82870d920d108f6cd5465c7196f5056980f81205",
+    "pages": 17,
+    "title": "Uncertainty Visualization: Concepts, Methods, and Applications in Biological Data Visualization",
+    "version": "published article, 2022"
+  },
+  {
+    "file": "AlShammari_2026_Chemical_Space_Visualization.pdf",
+    "doi": "10.1186/s13321-026-01223-4",
+    "source_url": "https://link.springer.com/content/pdf/10.1186/s13321-026-01223-4.pdf",
+    "retrieved_at": "2026-11-06T22:36:27+0900",
+    "status": "downloaded",
+    "bytes": 2914094,
+    "sha256": "dc972ece013459cfa4c113360f0c55dd0f0f2b23ac7487993d3f83032d7ff71e",
+    "pages": 37,
+    "title": "Chemical space visualization at scale: a survey of end-to-end pipelines and dataset-size archetypes",
+    "version": "published article, 2026-06-02"
+  },
+  {
+    "file": "Mirel_Gorg_2014_Scientists_Sense_Making.pdf",
+    "doi": "10.1186/1471-2105-15-117",
+    "source_url": "https://link.springer.com/content/pdf/10.1186/1471-2105-15-117.pdf",
+    "retrieved_at": "2026-11-06T22:36:22+0900",
+    "status": "downloaded",
+    "bytes": 2260162,
+    "sha256": "79a98a6397c082f50c7734c08aacd863ebfd49cae9cfd089f68f1eb3c8c1784e",
+    "pages": 12,
+    "title": "Scientists’ sense making when hypothesizing about disease mechanisms from expression data and their needs for visualization support",
+    "version": "published commentary, 2014"
+  },
+  {
+    "file": "Mirel_2009_Supporting_Cognition.pdf",
+    "doi": "10.1186/1747-5333-4-2",
+    "source_url": "https://link.springer.com/content/pdf/10.1186/1747-5333-4-2.pdf",
+    "retrieved_at": "2026-11-06T22:36:14+0900",
+    "status": "downloaded",
+    "bytes": 1808903,
+    "sha256": "d869c7f68ebf16a03243133a8a53634871c4a7cacef81b9a816933ba73cbaeb1",
+    "pages": 17,
+    "title": "Supporting cognition in systems biology analysis: findings on users' processes and design implications",
+    "version": "published article, 2009"
+  },
+  {
+    "file": null,
+    "doi": "10.1007/s10822-021-00399-1",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s10822-021-00399-1.pdf",
+    "retrieved_at": "2026-11-06T22:36:22+0900",
+    "status": "failed",
+    "error": "Response was not a PDF; file was not retained.",
+    "received_bytes": 516684,
+    "title": "Progress on open chemoinformatic tools for expanding and exploring the chemical space",
+    "authors": "José L. Medina-Franco; Norberto Sánchez-Cruz; Edgar López-López; Bárbara I. Díaz-Eufracio",
+    "additional_attempt": {
+      "url": "https://europepmc.org/articles/PMC8211976?pdf=render",
+      "status": "HTTP 403"
+    }
+  },
+  {
+    "file": "Mastrianni_2024_AI_Enhanced_Sensemaking_arxiv_v1.pdf",
+    "doi": "10.48550/arXiv.2412.15444",
+    "source_url": "https://arxiv.org/pdf/2412.15444v1",
+    "retrieved_at": "2026-11-06T22:36:41+0900",
+    "status": "downloaded",
+    "bytes": 1610015,
+    "sha256": "0a8d88ed5a702d363b28bda1b0f01bcf8afd16c166d3957225f83d7e4b79f6fd",
+    "pages": 28,
+    "title": "AI-Enhanced Sensemaking: Exploring the Design of a Generative AI-Based Assistant to Support Genetic Professionals",
+    "version": "arXiv:2412.15444v1, 2024-12-19; not the 2025 journal version"
+  }
+]
